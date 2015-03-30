@@ -5,7 +5,7 @@
 	<display-name>Hello World</display-name>
 	<servlet>
 		<servlet-name>helloWorld</servlet-name>
-		<servlet-class>com.expd.test.HelloWorld</servlet-class>
+		<servlet-class>com.acme.test.HelloWorld</servlet-class>
 		<load-on-startup>1</load-on-startup>
 		<init-param>
 			<param-name>name</param-name>
