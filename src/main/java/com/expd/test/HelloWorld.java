@@ -1,4 +1,4 @@
-package com.expd.test;
+package com.acme.test;
 
 import java.io.IOException;
 import java.io.PrintWriter;
